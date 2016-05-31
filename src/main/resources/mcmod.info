@@ -1,0 +1,19 @@
+[
+{
+  "modid" : "BlockItemPlus",
+  "name" : "Block Item Plus",
+  "version" : "1.0",
+  "mcversion" : "1.7.10",
+  "url" : "",
+  "credits" : "",
+  "authors" : [
+    "Pigatto17"
+  ],
+  "description" : "A mod that adds some cool blocks and items.",
+  "logoFile" : "",
+  "updateUrl" : "",
+  "parent" : "",
+  "screenshots": [
+  ]
+}
+]

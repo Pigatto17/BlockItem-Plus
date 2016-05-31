@@ -1,0 +1,82 @@
+[21:07:36] [main/INFO]: Setting user: Player615
+[21:07:36] [Client thread/INFO]: LWJGL Version: 2.9.1
+[21:07:43] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Block Item Plus
+[21:07:44] [Sound Library Loader/INFO]: Sound engine started
+[21:07:45] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[21:07:45] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[21:07:45] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Block Item Plus
+[21:07:45] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[21:07:45] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[21:07:46] [Sound Library Loader/INFO]: Sound engine started
+[21:07:49] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[21:07:49] [Server thread/INFO]: Generating keypair
+[21:07:50] [Server thread/INFO]: Preparing start region for level 0
+[21:07:50] [Server thread/INFO]: Changing view distance to 12, from 10
+[21:07:51] [Server thread/INFO]: Player615[local:E:570ec6b1] logged in with entity id 327 at (99.32414059939829, 84.0, 237.66207909731398)
+[21:07:51] [Server thread/INFO]: Player615 joined the game
+[21:07:53] [Server thread/INFO]: Player615 has just earned the achievement [Taking Inventory]
+[21:07:53] [Client thread/INFO]: [CHAT] Player615 has just earned the achievement [Taking Inventory]
+[21:07:56] [Client thread/INFO]: Warning: Clientside chunk ticking took 142 ms
+[21:07:56] [Client thread/INFO]: Warning: Clientside chunk ticking took 118 ms
+[21:07:57] [Client thread/INFO]: Warning: Clientside chunk ticking took 118 ms
+[21:07:58] [Client thread/INFO]: Warning: Clientside chunk ticking took 156 ms
+[21:07:58] [Client thread/INFO]: Warning: Clientside chunk ticking took 165 ms
+[21:07:58] [Client thread/INFO]: Warning: Clientside chunk ticking took 136 ms
+[21:08:00] [Client thread/INFO]: [CHAT] /gamemode, /give, /gamerule
+[21:08:01] [Server thread/INFO]: [Player615: Set own game mode to Survival Mode]
+[21:08:01] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[21:08:03] [Client thread/INFO]: Warning: Clientside chunk ticking took 111 ms
+[21:08:03] [Client thread/INFO]: Warning: Clientside chunk ticking took 158 ms
+[21:08:07] [Client thread/INFO]: Warning: Clientside chunk ticking took 134 ms
+[21:08:18] [Client thread/INFO]: Warning: Clientside chunk ticking took 144 ms
+[21:08:20] [Client thread/INFO]: Warning: Clientside chunk ticking took 126 ms
+[21:08:24] [Client thread/INFO]: Warning: Clientside chunk ticking took 133 ms
+[21:08:27] [Client thread/INFO]: Warning: Clientside chunk ticking took 118 ms
+[21:08:28] [Client thread/INFO]: Warning: Clientside chunk ticking took 115 ms
+[21:08:29] [Client thread/INFO]: Warning: Clientside chunk ticking took 161 ms
+[21:09:43] [Client thread/INFO]: Warning: Clientside chunk ticking took 300 ms
+[21:10:20] [Client thread/INFO]: Warning: Clientside chunk ticking took 114 ms
+[21:10:25] [Client thread/INFO]: Warning: Clientside chunk ticking took 143 ms
+[21:10:34] [Client thread/INFO]: Warning: Clientside chunk ticking took 148 ms
+[21:10:36] [Client thread/INFO]: Warning: Clientside chunk ticking took 170 ms
+[21:11:52] [Client thread/INFO]: Warning: Clientside chunk ticking took 145 ms
+[21:12:15] [Client thread/INFO]: Warning: Clientside chunk ticking took 105 ms
+[21:13:41] [Client thread/INFO]: Warning: Clientside chunk ticking took 237 ms
+[21:13:41] [Client thread/INFO]: Warning: Clientside chunk ticking took 237 ms
+[21:20:48] [Client thread/INFO]: Warning: Clientside chunk ticking took 158 ms
+[21:21:09] [Client thread/INFO]: Warning: Clientside chunk ticking took 115 ms
+[21:21:26] [Client thread/INFO]: Warning: Clientside chunk ticking took 124 ms
+[21:21:32] [Client thread/INFO]: Warning: Clientside chunk ticking took 110 ms
+[21:22:05] [Client thread/INFO]: Warning: Clientside chunk ticking took 261 ms
+[21:22:06] [Client thread/INFO]: Warning: Clientside chunk ticking took 282 ms
+[21:22:14] [Client thread/INFO]: Warning: Clientside chunk ticking took 135 ms
+[21:22:15] [Client thread/INFO]: Warning: Clientside chunk ticking took 108 ms
+[21:22:15] [Client thread/INFO]: Warning: Clientside chunk ticking took 118 ms
+[21:22:18] [Client thread/INFO]: Warning: Clientside chunk ticking took 118 ms
+[21:22:20] [Client thread/INFO]: Warning: Clientside chunk ticking took 123 ms
+[21:22:23] [Client thread/INFO]: Warning: Clientside chunk ticking took 106 ms
+[21:22:29] [Client thread/INFO]: Warning: Clientside chunk ticking took 237 ms
+[21:22:31] [Client thread/INFO]: Warning: Clientside chunk ticking took 114 ms
+[21:22:43] [Client thread/INFO]: Warning: Clientside chunk ticking took 118 ms
+[21:22:44] [Client thread/INFO]: Warning: Clientside chunk ticking took 137 ms
+[21:22:50] [Client thread/INFO]: Warning: Clientside chunk ticking took 124 ms
+[21:22:50] [Client thread/INFO]: Warning: Clientside chunk ticking took 106 ms
+[21:23:06] [Client thread/INFO]: Warning: Clientside chunk ticking took 188 ms
+[21:23:13] [Client thread/INFO]: Warning: Clientside chunk ticking took 129 ms
+[21:23:20] [Client thread/INFO]: Warning: Clientside chunk ticking took 162 ms
+[21:23:23] [Client thread/INFO]: Warning: Clientside chunk ticking took 162 ms
+[21:23:23] [Client thread/INFO]: Warning: Clientside chunk ticking took 114 ms
+[21:23:30] [Client thread/INFO]: Warning: Clientside chunk ticking took 107 ms
+[21:23:32] [Client thread/INFO]: Warning: Clientside chunk ticking took 116 ms
+[21:23:32] [Client thread/INFO]: Warning: Clientside chunk ticking took 114 ms
+[21:23:52] [Server thread/INFO]: Saving and pausing game...
+[21:23:52] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[21:23:52] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[21:23:52] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[21:24:03] [Server thread/INFO]: Stopping server
+[21:24:03] [Server thread/INFO]: Saving players
+[21:24:03] [Server thread/INFO]: Saving worlds
+[21:24:03] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[21:24:04] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[21:24:04] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[21:24:04] [Client thread/INFO]: Stopping!

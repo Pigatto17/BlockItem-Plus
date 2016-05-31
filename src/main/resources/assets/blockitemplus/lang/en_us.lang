@@ -1,0 +1,37 @@
+**Items
+item.emeraldPickaxe.name=Emerald Pickaxe
+item.emeraldShovel.name=Emerald Shovel
+item.emeraldAxe.name=Emerald Axe
+item.emeraldSword.name=Emerald Sword
+item.emeraldHoe.name=Emerald Hoe
+item.obsidianPickaxe.name=Obsidian Pickaxe
+item.obsidianShovel.name=Obsidian Shovel
+item.obsidianAxe.name=Obsidian Axe
+item.obsidianSword.name=Obsidian Sword
+item.obsidianHoe.name=Obsidian Hoe
+item.blockitemplus:diamondStick.name=Diamond Stick
+item.blockitemplus:diamondIngot.name=Diamond Ingot
+item.blockitemplus:obsidianIngot.name=Obsidian Ingot
+item.blockitemplus:ingotInducingCompound.name=Ingot Inducing Compound
+item.blockitemplus:diamondCompound.name=Diamond Compound
+item.blockitemplus:obsidianCompound.name=Obsidian Compound
+item.blockitemplus:rawDiamondInfusedObsidian.name=Raw Diamond Infused Obsidian Compound
+item.blockitemplus:diamondInfusedObsidianCompound.name=Diamond Infused Obsidian Compound
+item.blockitemplus:compoundInducingIngot.name=Compound Inducing Ingot
+item.blockitemplus:diamondInfusedObsidianIngot.name=Diamond Infused Obsidian Ingot
+item.diamondInfusedObsidianSword.name=Diamond Infused Obsidian Sword
+item.diamondInfusedObsidianPickaxe.name=Diamond Infused Obsidian Pickaxe
+item.diamondInfusedObsidianAxe.name=Diamond Infused Obsidian Axe
+item.diamondInfusedObsidianShovel.name=Diamond Infused Obsidian Shovel
+
+
+**Blocks
+tile.blockitemplus:blockBlueSolid.name=Blue Solid Block
+tile.blockitemplus:blockBlackSolid.name=Black Solid Block
+tile.blockitemplus:blockCyanSolid.name=Cyan Solid Block
+tile.blockitemplus:blockPinkSolid.name=Pink Solid Block
+
+**Tabs
+itemGroup.BlockItemPlus=Block Item Plus: Blocks
+itemGroup.BlockItemPlus1=Block Item Plus: Tools
+itemGroup.BlockItemPlus2=Block Item Plus: Items
