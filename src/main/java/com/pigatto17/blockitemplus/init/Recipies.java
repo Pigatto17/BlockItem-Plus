@@ -26,5 +26,12 @@ public class Recipies
         GameRegistry.addSmelting(ModItems.rawDiamondInfusedObsidianCompound, new ItemStack(ModItems.diamondInfusedObsidianCompound), 1.0f);
         GameRegistry.addRecipe(new ItemStack(ModItems.compoundInducingIngot),"odo", "odo", "   ", 'o', new ItemStack(Blocks.obsidian), 'd', new ItemStack(Items.diamond));
         GameRegistry.addRecipe(new ItemStack(ModItems.diamondInfusedObsidianIngot),"ccc", "cic", "ccc", 'i', new ItemStack(ModItems.compoundInducingIngot), 'c', new ItemStack(ModItems.diamondInfusedObsidianCompound));
+        GameRegistry.addRecipe(new ItemStack(ModItems.DiamondInfusedObsidianPickaxe),"ddd", " s ", " s ", 'd', new ItemStack(ModItems.diamondInfusedObsidianIngot), 's', new ItemStack(ModItems.diamondStick));
+        GameRegistry.addRecipe(new ItemStack(ModItems.DiamondInfusedObsidianAxe),"dd ", "ds ", " s ", 'd', new ItemStack(ModItems.diamondInfusedObsidianIngot), 's', new ItemStack(ModItems.diamondStick));
+        GameRegistry.addRecipe(new ItemStack(ModItems.DiamondInfusedObsidianShovel)," d ", " s ", " s ", 'd', new ItemStack(ModItems.diamondInfusedObsidianIngot), 's', new ItemStack(ModItems.diamondStick));
+        GameRegistry.addRecipe(new ItemStack(ModItems.DiamondInfusedObsidianHoe),"dd ", " s ", " s ", 'd', new ItemStack(ModItems.diamondInfusedObsidianIngot), 's', new ItemStack(ModItems.diamondStick));
+        GameRegistry.addRecipe(new ItemStack(ModItems.DiamondInfusedObsidianSword),"d  ", "d  ", "s  ", 'd', new ItemStack(ModItems.diamondInfusedObsidianIngot), 's', new ItemStack(ModItems.diamondStick));
+        GameRegistry.addRecipe(new ItemStack(ModItems.DiamondInfusedObsidianSword)," d ", " d ", " s ", 'd', new ItemStack(ModItems.diamondInfusedObsidianIngot), 's', new ItemStack(ModItems.diamondStick));
+        GameRegistry.addRecipe(new ItemStack(ModItems.DiamondInfusedObsidianSword),"  d", "  d", "  s", 'd', new ItemStack(ModItems.diamondInfusedObsidianIngot), 's', new ItemStack(ModItems.diamondStick));
     }
 }

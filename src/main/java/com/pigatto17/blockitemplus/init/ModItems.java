@@ -41,6 +41,7 @@ public class ModItems
     public final static Item DiamondInfusedObsidianPickaxe = new DiamondObsidianPickaxe(5000, diamondObsidianm);
     public final static Item DiamondInfusedObsidianAxe = new DiamondObsidianAxe(5000, diamondObsidianm);
     public final static Item DiamondInfusedObsidianShovel = new DiamondObsidianShovel(5000, diamondObsidianm);
+    public final static Item DiamondInfusedObsidianHoe = new DiamondObsidianHoe(5000, diamondObsidianm);
 
     public static void init()
     {
@@ -72,5 +73,6 @@ public class ModItems
         GameRegistry.registerItem(DiamondInfusedObsidianPickaxe, "diamondInfusedObsidianPickaxe");
         GameRegistry.registerItem(DiamondInfusedObsidianAxe, "diamondInfusedObsidianAxe");
         GameRegistry.registerItem(DiamondInfusedObsidianShovel, "diamondInfusedObsidianShovel");
+        GameRegistry.registerItem(DiamondInfusedObsidianHoe, "diamondInfusedObsidianHoe");
     }
 }

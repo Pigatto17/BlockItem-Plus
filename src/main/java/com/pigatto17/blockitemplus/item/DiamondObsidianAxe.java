@@ -10,5 +10,6 @@ public class DiamondObsidianAxe extends ItemAxe
         super(DiamondObsidianm);
         this.setUnlocalizedName("diamondInfusedObsidianAxe");
         this.setCreativeTab(CreativeTabBIPTools.BIP_TOOLS);
+        this.setTextureName("blockitemplus:diamondInfusedObsidianAxe");
     }
 }
