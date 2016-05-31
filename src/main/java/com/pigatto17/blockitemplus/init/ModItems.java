@@ -20,6 +20,8 @@ public class ModItems
     public static final ItemBIP diamondInfusedObsidianCompound = new ItemDiamondInfusedObsidianCompound();
     public static final ItemBIP compoundInducingIngot = new ItemCompoundInducingIngot();
     public static final ItemBIP diamondInfusedObsidianIngot = new ItemDiamondInfusedObsidianIngot();
+    public static final ItemBIP coalMixture = new ItemCoalMixture();
+    public static final ItemBIP compressedCoalChunk = new ItemCompressedCoalChunk();
 //Tool Materials
     public static Item.ToolMaterial emeraldm = EnumHelper.addToolMaterial("EmeraldM", 3, 2000, 10.0F, 4.0F, 22);
     public static Item.ToolMaterial obsidianm = EnumHelper.addToolMaterial("ObsidianM", 3, 3000, 12.0F, 8.0F, 22);
@@ -56,6 +58,8 @@ public class ModItems
         GameRegistry.registerItem(diamondInfusedObsidianCompound, "diamondInfusedObsidianCompound");
         GameRegistry.registerItem(compoundInducingIngot, "compoundInducingIngot");
         GameRegistry.registerItem(diamondInfusedObsidianIngot, "diamondInfusedObsidianIngot");
+        GameRegistry.registerItem(coalMixture, "coalMixture");
+        GameRegistry.registerItem(compressedCoalChunk, "compressedCoalChunk");
 //EmeraldToolsRegistry
         GameRegistry.registerItem(EmeraldPickaxe, "emeraldPickaxe");
         GameRegistry.registerItem(EmeraldShovel, "emeraldShovel");

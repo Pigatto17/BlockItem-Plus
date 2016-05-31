@@ -33,5 +33,7 @@ public class Recipies
         GameRegistry.addRecipe(new ItemStack(ModItems.DiamondInfusedObsidianSword),"d  ", "d  ", "s  ", 'd', new ItemStack(ModItems.diamondInfusedObsidianIngot), 's', new ItemStack(ModItems.diamondStick));
         GameRegistry.addRecipe(new ItemStack(ModItems.DiamondInfusedObsidianSword)," d ", " d ", " s ", 'd', new ItemStack(ModItems.diamondInfusedObsidianIngot), 's', new ItemStack(ModItems.diamondStick));
         GameRegistry.addRecipe(new ItemStack(ModItems.DiamondInfusedObsidianSword),"  d", "  d", "  s", 'd', new ItemStack(ModItems.diamondInfusedObsidianIngot), 's', new ItemStack(ModItems.diamondStick));
+        GameRegistry.addRecipe(new ItemStack(ModItems.coalMixture),"ccc", "c c", "ccc", 'c', new ItemStack(Items.coal));
+        GameRegistry.addSmelting(ModItems.coalMixture, new ItemStack(ModItems.compressedCoalChunk), 0.5f);
     }
 }

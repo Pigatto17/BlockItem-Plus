@@ -6,8 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91baffc9-48e3-4668-9a0d-1146d540c069" name="Default" comment="Update 1.101">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/pigatto17/blockitemplus/item/DiamondObsidianHoe.java" />
+    <list default="true" id="91baffc9-48e3-4668-9a0d-1146d540c069" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/pigatto17/blockitemplus/item/ItemCoalMixture.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/pigatto17/blockitemplus/item/ItemCompressedCoalChunk.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/New World-/DIM-1/data/villages.dat" afterPath="$PROJECT_DIR$/eclipse/saves/New World-/DIM-1/data/villages.dat" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/New World-/DIM1/data/villages.dat" afterPath="$PROJECT_DIR$/eclipse/saves/New World-/DIM1/data/villages.dat" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/New World-/data/villages.dat" afterPath="$PROJECT_DIR$/eclipse/saves/New World-/data/villages.dat" />
@@ -18,8 +19,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/New World-/session.lock" afterPath="$PROJECT_DIR$/eclipse/saves/New World-/session.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/BlockItem Plus/com/pigatto17/blockitemplus/init/ModItems.class" afterPath="$PROJECT_DIR$/out/production/BlockItem Plus/com/pigatto17/blockitemplus/init/ModItems.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/BlockItem Plus/com/pigatto17/blockitemplus/init/Recipies.class" afterPath="$PROJECT_DIR$/out/production/BlockItem Plus/com/pigatto17/blockitemplus/init/Recipies.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/BlockItem Plus/com/pigatto17/blockitemplus/item/DiamondObsidianAxe.class" afterPath="$PROJECT_DIR$/out/production/BlockItem Plus/com/pigatto17/blockitemplus/item/DiamondObsidianAxe.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/BlockItem Plus/com/pigatto17/blockitemplus/item/DiamondObsidianShovel.class" afterPath="$PROJECT_DIR$/out/production/BlockItem Plus/com/pigatto17/blockitemplus/item/DiamondObsidianShovel.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BlockItem Plus.ipr" afterPath="$PROJECT_DIR$/BlockItem Plus.ipr" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BlockItem Plus.iws" afterPath="$PROJECT_DIR$/BlockItem Plus.iws" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/config/splash.properties" afterPath="$PROJECT_DIR$/eclipse/config/splash.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-1.log" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-1.log" />
@@ -32,7 +32,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/BlockItem Plus/assets/blockitemplus/lang/en_us.lang" afterPath="$PROJECT_DIR$/out/production/BlockItem Plus/assets/blockitemplus/lang/en_us.lang" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/pigatto17/blockitemplus/init/ModItems.java" afterPath="$PROJECT_DIR$/src/main/java/com/pigatto17/blockitemplus/init/ModItems.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/pigatto17/blockitemplus/init/Recipies.java" afterPath="$PROJECT_DIR$/src/main/java/com/pigatto17/blockitemplus/init/Recipies.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/pigatto17/blockitemplus/item/DiamondObsidianAxe.java" afterPath="$PROJECT_DIR$/src/main/java/com/pigatto17/blockitemplus/item/DiamondObsidianAxe.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/assets/blockitemplus/lang/en_us.lang" afterPath="$PROJECT_DIR$/src/main/resources/assets/blockitemplus/lang/en_us.lang" />
     </list>
     <ignored path="BlockItem Plus.iws" />
@@ -96,8 +95,8 @@
       <file leaf-file-name="BlockItemPlus.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/pigatto17/blockitemplus/BlockItemPlus.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+            <state relative-caret-position="85">
+              <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
               <folding>
                 <element signature="e#1239#1240#0" expanded="true" />
                 <element signature="e#1270#1271#0" expanded="true" />
@@ -106,33 +105,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="en_us.lang" pinned="false" current-in-tab="true">
+      <file leaf-file-name="en_us.lang" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/assets/blockitemplus/lang/en_us.lang">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+            <state relative-caret-position="51">
+              <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DiamondObsidianAxe.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/pigatto17/blockitemplus/item/DiamondObsidianAxe.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Recipies.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Recipies.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/pigatto17/blockitemplus/init/Recipies.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="138" selection-start-line="28" selection-start-column="138" selection-end-line="28" selection-end-column="138" />
+            <state relative-caret-position="89">
+              <caret line="13" column="155" selection-start-line="13" selection-start-column="155" selection-end-line="13" selection-end-column="155" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -163,9 +150,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/pigatto17/blockitemplus/configuration/ConfigurationHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/pigatto17/blockitemplus/utility/LogHelper.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/pigatto17/blockitemplus/item/ItemThing.java" />
         <option value="$PROJECT_DIR$/src/main/resources/assets/blockitemplus/lang/en-US.lang" />
         <option value="$PROJECT_DIR$/src/main/java/com/pigatto17/blockitemplus/block/BlockBIP.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pigatto17/blockitemplus/block/BlockFlag.java" />
@@ -211,9 +195,12 @@
         <option value="$PROJECT_DIR$/src/main/java/com/pigatto17/blockitemplus/item/DiamondObsidianShovel.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pigatto17/blockitemplus/item/DiamondObsidianAxe.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pigatto17/blockitemplus/item/DiamondObsidianHoe.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pigatto17/blockitemplus/item/ItemCoalMixure.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pigatto17/blockitemplus/item/ItemCoalMixture.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pigatto17/blockitemplus/item/ItemCompressedCoalChunk.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/assets/blockitemplus/lang/en_us.lang" />
         <option value="$PROJECT_DIR$/src/main/java/com/pigatto17/blockitemplus/init/ModItems.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pigatto17/blockitemplus/init/Recipies.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/assets/blockitemplus/lang/en_us.lang" />
       </list>
     </option>
   </component>
@@ -684,7 +671,14 @@
       <option name="project" value="LOCAL" />
       <updated>1464728500531</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Update 1.101">
+      <created>1464730006042</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1464730006042</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView">
@@ -756,20 +750,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1558-1.7.10/forgeSrc-1.7.10-10.13.4.1558-1.7.10-sources.jar!/net/minecraft/creativetab/CreativeTabs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="185" column="18" selection-start-line="185" selection-start-column="18" selection-end-line="185" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pigatto17/blockitemplus/proxy/IProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1558-1.7.10/forgeSrc-1.7.10-10.13.4.1558-1.7.10-sources.jar!/net/minecraft/block/Block.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="901">
@@ -1033,27 +1013,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pigatto17/blockitemplus/BlockItemPlus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-          <folding>
-            <element signature="e#1239#1240#0" expanded="true" />
-            <element signature="e#1270#1271#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pigatto17/blockitemplus/item/DiamondObsidianAxe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/pigatto17/blockitemplus/item/DiamondObsidianPickaxe.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -1074,20 +1033,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pigatto17/blockitemplus/init/ModItems.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pigatto17/blockitemplus/item/DiamondObsidianAxe.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="641">
-          <caret line="68" column="66" selection-start-line="68" selection-start-column="66" selection-end-line="68" selection-end-column="66" />
+        <state relative-caret-position="255">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pigatto17/blockitemplus/init/Recipies.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pigatto17/blockitemplus/item/ItemCoalMixture.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="138" selection-start-line="28" selection-start-column="138" selection-end-line="28" selection-end-column="138" />
+        <state relative-caret-position="0">
+          <caret line="0" column="41" selection-start-line="0" selection-start-column="41" selection-end-line="0" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pigatto17/blockitemplus/item/ItemCompressedCoalChunk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pigatto17/blockitemplus/BlockItemPlus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          <folding>
+            <element signature="e#1239#1240#0" expanded="true" />
+            <element signature="e#1270#1271#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pigatto17/blockitemplus/init/ModItems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1096,9 +1082,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/assets/blockitemplus/lang/en_us.lang">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        <state relative-caret-position="51">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pigatto17/blockitemplus/init/Recipies.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="13" column="155" selection-start-line="13" selection-start-column="155" selection-end-line="13" selection-end-column="155" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
