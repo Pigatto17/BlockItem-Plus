@@ -10,5 +10,6 @@ public class DiamondObsidianShovel extends ItemSpade
         super(DiamondObsidianm);
         this.setUnlocalizedName("diamondInfusedObsidianShovel");
         this.setCreativeTab(CreativeTabBIPTools.BIP_TOOLS);
+        this.setTextureName("blockitemplus:diamondInfusedObsidianShovel");
     }
 }
