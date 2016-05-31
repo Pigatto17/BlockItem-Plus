@@ -26,7 +26,6 @@ public class BlockItemPlus
     {
         ConfigurationHandler.init(event.getSuggestedConfigurationFile());
         ModItems.init();
-        ModBlocks.init();
     }
 
     @Mod.EventHandler
