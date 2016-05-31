@@ -25,9 +25,7 @@ public class BlockItemPlus
     public void preInit(FMLPreInitializationEvent event)
     {
         ConfigurationHandler.init(event.getSuggestedConfigurationFile());
-        
         ModItems.init();
-        ModBlocks.init();
     }
 
     @Mod.EventHandler
